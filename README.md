@@ -1,11 +1,11 @@
 # option pricing web app
 
-frontend - react.js
-backend - flask
+frontend - react.js <br>
+backend - flask <br>
 
-home page
-option pricing tool
-historical data visualisation
-model comparison
-sentiment analysis integration
-about page
+home page <br>
+option pricing tool <br>
+historical data visualisation <br>
+model comparison <br>
+sentiment analysis integration <br>
+about page <br>
